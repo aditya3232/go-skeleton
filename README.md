@@ -38,4 +38,22 @@ skeleton/
 ├── services/             → Menyimpan logika bisnis utama aplikasi (core business logic).
 
 
+Library
+- Gorm : gorm.io/gorm
+- Postgres : gorm.io/driver/postgres
+- Env : github.com/joho/godotenv
+- UUID : github.com/google/uuid
+- JWT : github.com/golang-jwt/jwt/v5
+- Logger : github.com/sirupsen/logrus
+- Cobra : github.com/spf13/cobra
+- Viper : github.com/spf13/viper
+- Limitter : github.com/didip/tollbooth
+- Gin : github.com/gin-gonic/gin
+- Go Request : github.com/parnurzeal/gorequest@v0.2.16
+- Midtrans : github.com/midtrans/midtrans-go
+- Apache Kafka : github.com/IBM/sarama
+- Slices Golang : golang.org/x/exp/slices
+- Wkhtmltopdf : github.com/SebastiaanKlippert/go-wkhtmltopdf
+- Hashi Corp : github.com/hashicorp/consul/api
+
 ```
